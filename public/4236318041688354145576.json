@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "553068516519",
+    "project_id": "reward---dana-penghasil-uang",
+    "storage_bucket": "reward---dana-penghasil-uang.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553068516519:android:ca1a5db17c431e2e97b782",
+        "android_client_info": {
+          "package_name": "com.cairincuan.rewarddanapenghasiluang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553068516519-gqvco8c4roecldfurot8gq497ah5pe5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn6wAPQRzwtvEd7TxlZGBKz7tDDlbet4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553068516519-gqvco8c4roecldfurot8gq497ah5pe5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
